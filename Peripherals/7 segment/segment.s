@@ -1,3 +1,4 @@
+; display 0 to 9 on 7 segment display.
 extrn code (delay_1sec)
 
 cseg at 1000h
